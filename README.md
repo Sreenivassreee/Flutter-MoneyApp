@@ -1,16 +1,57 @@
 # WinMoney
 
-A new Flutter project.
+A new Flutter game.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Just clone the project and then nagivate to that path and run flutter project
 
-A few resources to get you started if this is your first Flutter project:
+=> git clone <URL> <br>
+=> flutter run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p >
+  <img src="# Theme_changer
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Flutter project for changing Theme.
+
+## Getting Started
+
+### Just clone the project and then nagivate to that path and run flutter project
+
+=> git clone <URL> <br>
+=> flutter run
+
+# Note :-
+
+## We can able to change colors based on our requiremates</P>
+
+<p >
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-1.png" width="350" title="Screenshot-1 "><br>
+  
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-2.png" width="350" title="Screenshot-2 "><br>
+  
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-3.png" width="350" title="Screenshot-3 "><br>
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-4.png" width="350" title="Screenshot-4 "><br>
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-5.png" width="350" title="Screenshot-5 "><br>
+      
+       
+</p>
+
+## Developed by
+
+## K Sreenivas
+
+" width="350" title="Screenshot-1 "><br>
+
+<img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_2.png" width="350" title="Screenshot-2 "><br>
+
+<img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_3.png" width="350" title="Screenshot-3 "><br>
+<img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_4.png" width="350" title="Screenshot-4 "><br>
+<img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_5.png" width="350" title="Screenshot-5 "><br>
+<img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_6.png" width="350" title="Screenshot-6 "><br>
+
+</p>
+
+## Developed by
+
+## K Sreenivas
