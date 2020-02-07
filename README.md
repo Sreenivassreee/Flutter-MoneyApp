@@ -23,9 +23,11 @@ A new Flutter project for changing Theme.
 
 <p >
   <br>
-<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-1.png" width="350" title="Screenshot-1 "><br>
+
   
 <img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-2.png" width="350" title="Screenshot-2 "><br>
+
+<img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-1.png" width="350" title="Screenshot-1 "><br>
   
 <img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-3.png" width="350" title="Screenshot-3 "><br>
 <img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-4.png" width="350" title="Screenshot-4 "><br>
