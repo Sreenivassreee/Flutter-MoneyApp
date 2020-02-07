@@ -1,6 +1,6 @@
-# Numbers App
+# MoneyApp
 
-A new Flutter project for NumberApp.
+A new Flutter game.
 
 ## Getting Started
 
@@ -8,10 +8,6 @@ A new Flutter project for NumberApp.
 
 => git clone < URL > <br>
 => flutter run
-
-# Note :-
-
-## We can able to Numbers the numbers based on our requiremates</P>
 
 <p >
   <img src="https://github.com/Sreenivassreee/Flutter-MoneyApp/blob/master/Review/WinMoney-1.png" width="350" title="Screenshot-1 "><br>
